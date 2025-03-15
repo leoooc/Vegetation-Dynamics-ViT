@@ -1,4 +1,4 @@
-# Optical Vegetation Dynamics Imputation with Vision Transformer 
+# Deeply synergistic optical and SAR time series for crop dynamic monitoring
 
 This project addresses the challenge of missing optical data—specifically NDVI—caused by heavy cloud cover in remote sensing imagery. By leveraging complementary radar data (VH from Sentinel-1) alongside optical data (NDVI from Sentinel-2), we develop a deep learning solution to impute missing optical information, enhancing our ability to monitor vegetation health in challenging environments.
 
