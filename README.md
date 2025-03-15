@@ -47,6 +47,8 @@ Training:
 
 Extended Training: The model is trained over multiple epochs with a reconstruction loss (MSE), and hyperparameters are tuned for optimal performance.
 GPU and Mixed Precision: Training leverages GPU acceleration and mixed precision (AMP) for efficiency.
+<img width="538" alt="image" src="https://github.com/user-attachments/assets/ac55180b-6727-42e6-81d4-827f3c34ab2c" />
+
 # Outcome
 The model successfully reconstructs missing NDVI values by fusing radar and optical data. Visualizations of the imputed NDVI demonstrate that our approach provides a robust solution for monitoring vegetation in regions frequently obscured by clouds, such as the Amazon forest.
 
