@@ -31,6 +31,7 @@ Temporal Compositing:
 Creating 8-day composites for both datasets to generate a temporally consistent input, which is then exported as a multi-channel GeoTIFF to Google Drive.
 
 This fused dataset (combining NDVI and VH) forms the basis of our deep learning pipeline.
+![image](https://github.com/user-attachments/assets/9a41b648-0eae-4740-84fb-2ee6966f3ed5)
 
 # Key Components
 Data Pipeline:
