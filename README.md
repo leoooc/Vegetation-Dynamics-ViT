@@ -7,6 +7,7 @@ This project addresses the challenge of missing optical data—specifically NDVI
 To use a fusion of radar and optical data to reconstruct missing NDVI values. Our approach capitalizes on the cloud-penetrating capabilities of radar and the rich spectral detail of optical imagery, ensuring more complete and accurate vegetation monitoring.
 
 # Approach:
+[Access the dataset on Google Drive](https://drive.google.com/drive/u/0/folders/1DznFw7cS4hcoihAspkqtyTHJYMZjL4iD)
 
 Data Fusion:
 
